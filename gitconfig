@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = awsalesforce2021@gmail.com
+	name = Anthony Ahmed
